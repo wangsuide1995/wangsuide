@@ -16,3 +16,5 @@ wangsuide-taiji
 #wangsuide is great man
 
 # you konow
+
+#idea is good
