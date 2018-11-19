@@ -18,3 +18,5 @@ wangsuide-taiji
 # you konow
 
 #idea is good
+
+#chingtu
