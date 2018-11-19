@@ -9,7 +9,6 @@ wangsuide-taiji
 #you new first
 
 #you new who are you
-
 #you new no
 
 #wangsuide is man
@@ -17,5 +16,3 @@ wangsuide-taiji
 #wangsuide is great man
 
 # you konow
-
-#IDEA is good
